@@ -12,7 +12,8 @@ pip install -r requerimientos.txt
 
 https://www.microsoft.com/es-mx/download/details.aspx?id=48159
 
-
+Enlace para descargar ejecutable
+https://drive.google.com/file/d/1VEEHgzrxUwtqe99IP6-rWYbahsh9ZJtz/view?usp=sharing
 
 
 
