@@ -6,3 +6,4 @@ Es una versión inicial, me gustaria poder contribuir un poco al software libre 
 python3.7 o superior
 instalar los requerimientos
 pip install -r requerimientos.txt
+https://www.microsoft.com/es-mx/download/details.aspx?id=48159
